@@ -62,7 +62,7 @@ def get_conversational_chain():
 
 def generate_fallback_answer(user_question):
     """Use Google Generative AI to generate an answer when no context matches the user's question."""
-    ai_model = ChatGoogleGenerativeAI(model="gemini-pro", temperature=0.7)
+    ai_model = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.7)
 
     from langchain.schema import HumanMessage
 
