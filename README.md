@@ -8,4 +8,12 @@
 ### Langchain - FAISS
 ### Langchain - embeddings
 
-### Visit the website at https://chat-with-pdfs-kmcfwsbmoiary4ubwyxf4o.streamlit.app/
+
+## Steps to use
+1.  Upload Your PDF
+2.  Click Submit and Process
+3.  Ask your Questions to PDFs
+4.  If it doesn't answer wait it will ask te  gemini LLM to respond
+
+
+### Visit the website at https://chat-with-pdfs-kmcfwsbmoiary4ubwyxf4o.streamlit.app/ to use
